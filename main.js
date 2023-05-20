@@ -10,6 +10,7 @@ const pool = new Pool({
   database: "CANDIACORP",
   password: "#R1c0#",
   port: "5432",
+  
 });
 
 // Modelo
